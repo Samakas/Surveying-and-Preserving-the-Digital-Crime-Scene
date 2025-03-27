@@ -16,21 +16,26 @@
 ### Open Autopsy & Create a New Case
 <ul>Launch Autopsy and Run as a administrator</ul>
 <ul>Click Create New Case.</ul>
+
 ![alt text](img-1.png)
 
 <ul>Enter a Case Name (e.g., Autopsy1).</ul>
 <ul>Choose a Case Folder location.</ul>
 <ul>Click Next → Click Finish.</ul>
+
 ![alt text](img-2.png)
 
 ### Add the Virtual Disk as an Evidence Source
 <ul>Click Add Data Source → Select Host</ul>
-![alt text](img-3.png)
+
+![alt text](img-5.png)
 
 <ul>Select Local Disk → next</ul>
+
 ![alt text](img-4.png)
 
 <ul>Select Disk → Choose the VHD drive (Drive1)</ul>
+
 ![alt text](img-5.png)
 
 <ul>Click Next → Keep default settings → Click Finish.</ul>
@@ -38,22 +43,29 @@
 
 ### Recover Deleted Files
 <ul>Go to File Views (left panel).</ul>
+
 ![alt text](img-6.png)
 ![alt text](img-7.png)
 
 <ul>Click Deleted Files → Find your deleted images.</ul>
 <ul>Right-click an image → Click Extract File.</ul>
+
 ![alt text](img-8.png)
 
 ## Output:
 ### Folder before deleting the files
 
 <ul>Folder after deleting the files</ul>
+
 ![alt text](img-9.png)
+
 <ul>Folder after deleting the files</ul>
+
 ![alt text](img-10.png)
 
+
 <ul>Folder after extracting the deleted images using autopsy</ul>
+
 ![alt text](img-11.png)
 
 
